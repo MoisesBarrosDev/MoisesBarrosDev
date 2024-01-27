@@ -17,7 +17,7 @@
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
         <div>
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="icon" width="38"height="56"
+            src="https://skillicons.dev/icons?i=html" alt="icon" width="38" height="60"
           />
         </div>
       </a>
@@ -27,7 +27,7 @@
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
         <div>
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="icon" height="56" width="38"                />
+             src="https://skillicons.dev/icons?i=css" alt="icon" width="38" height="60"/>
         </div>
       </a>
       <p>CSS</p>
