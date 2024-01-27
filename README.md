@@ -31,8 +31,9 @@
         </div>
       </a>
       <p>CSS</p>
-    </td>
-
+        </td >
+          <td align="center" width="96">
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
   </tr>
 </table>
 
