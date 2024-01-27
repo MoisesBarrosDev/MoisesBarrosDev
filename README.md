@@ -34,6 +34,13 @@
         </td >
           <td align="center" width="96">
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+           <div>
+          <img
+            src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60"
+          />
+        </div>
+      </a>
+      <p>JavaScript</p>
   </tr>
 </table>
 
